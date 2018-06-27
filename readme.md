@@ -1,1 +1,1 @@
-# The default Preonic layout - largely based on the Planck's
+My Preonic Layout for flashing via QMK
